@@ -2,9 +2,7 @@
 
 A live market price ledger and trading toolkit for the **Sky Servers** Minecraft server.
 
-**[Open the live tool →](https://YOUR-USERNAME.github.io/skyservers-ledger/)**
-
-*(Replace `YOUR-USERNAME` above with your actual GitHub username once this is live.)*
+**[Open the live tool →](https://CARTER-BNW.github.io/skyservers-ledger/)**
 
 ---
 
